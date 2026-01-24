@@ -67,7 +67,7 @@ Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una fo
 - [ ] Configurar pipelines de CI/CD orientados a seguridad (DevSecOps).
 
 📫 **¿Cómo conectamos?**
-- [LinkedIn](TU_LINK_DE_LINKEDIN_AQUI)
+- [LinkedIn](https://www.linkedin.com/in/javier-alejandro-dileo/)
 
 *"La infraestructura es la base; la seguridad es el compromiso."*
 
