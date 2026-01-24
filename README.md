@@ -1,14 +1,34 @@
 # ¡Hola! Soy Javier Dileo 👋
 
-### 🛡️ Redes y Ciberseguridad | Futuro DevOps Engineer
+### 🛡️ Técnico Superior en Redes y Ciberseguridad | Aspirante a DevOps Engineer
 
-Soy estudiante avanzado de la **Tecnicatura Superior en Redes y Ciberseguridad**, con **28 de 32 materias aprobadas y promocionadas**. Mi enfoque está en la convergencia entre la infraestructura de red segura y la automatización de despliegues.
+Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una formación técnica integral que une la infraestructura de redes, la seguridad informática y el desarrollo de software. Mi enfoque está en comprender cómo funciona la tecnología desde el hardware hasta el código.
 
 ---
 
-## ⭐ Repositorio Principal
+## 🚀 Perfil Técnico Especializado
+
+### 🌐 Networking & Conectividad (Capa 2 y 3)
+- **Administración de Switches:** Configuración en entornos **Cisco y Dell**.
+- **Seguridad y Control:** Implementación de **VLANs**, **ACLs** (Listas de Control de Acceso), **Port Security**, Port Mirroring y Port Channel.
+- **Diseño y Simulación:** Uso de **Cisco Packet Tracer** para el modelado de topologías.
+- **Estándares:** Aplicación de normas **TIA/EIA** para cableado estructurado y centro de datos.
+
+### 🔐 Ciberseguridad & Normativa
+- **Marcos de Trabajo:** Conocimientos teóricos en la familia **ISO 27000** (Seguridad) e **ISO 9001** (Calidad).
+- **Seguridad Informática:** Aplicación de la tríada **CID** (Confidencialidad, Integridad y Disponibilidad) y buenas prácticas de seguridad.
+- **Derecho Informático:** Formación en aspectos legales, ética y privacidad de datos.
+
+### 🖥️ Sistemas y Virtualización
+- **Arquitectura y Sistemas Operativos:** Conocimiento profundo de la arquitectura de computadores y fundamentos teóricos de los Sistemas Operativos (Gestión de procesos, memoria y E/S).
+- **Entornos:** Manejo de **Windows** y **Linux** (Ubuntu/Debian).
+- **Virtualización:** Uso de laboratorios virtuales mediante **VMware** y **VirtualBox**.
+
+---
+
+## ⭐ Repositorio Estrella
 🚀 **[Linux-DevOps](https://github.com/JDileoDev/Linux-DevOps)**
-*Mi base de operaciones para la administración de sistemas, scripts de automatización y mi transición hacia el ecosistema Docker.*
+*Mi laboratorio principal de administración de sistemas, scripting y evolución hacia Docker.*
 
 ---
 
@@ -34,20 +54,24 @@ Soy estudiante avanzado de la **Tecnicatura Superior en Redes y Ciberseguridad**
 - **Bases de Datos:** Microsoft SQL Server.
 - **Herramientas:** Docker (en progreso), Git, GitHub.
 
+---
+
 ## 📊 Formación Académica
 - **Carrera:** Tecnicatura Superior en Redes y Ciberseguridad.
-- **Estado:** 90% de la carrera completado (28/32 materias promocionadas).
+- **Logro:** 28 de 32 materias aprobadas con promoción.
+
 
 ## 📈 Metas Técnicas
 - [ ] Implementar arquitecturas de red seguras para contenedores Docker.
 - [ ] Automatizar flujos de trabajo con Python y Bash.
 - [ ] Configurar pipelines de CI/CD orientados a seguridad (DevSecOps).
 
----
 📫 **¿Cómo conectamos?**
 - [LinkedIn](TU_LINK_DE_LINKEDIN_AQUI)
 
-*"Construyendo infraestructuras seguras y automatizadas, un bit a la vez."*
+*"La infraestructura es la base; la seguridad es el compromiso."*
+
+
 
 <!--
 **JDileoDev/JDIleoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
