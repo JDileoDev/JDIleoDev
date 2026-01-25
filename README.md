@@ -29,6 +29,8 @@ Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una fo
 ## ⭐ Repositorio Estrella
 🚀 **[Linux-DevOps](https://github.com/JDileoDev/practicas-linux-devops)**
 *Mi laboratorio principal de administración de sistemas, scripting y evolución hacia Docker.*
+  **[Nginx-Server](https://github.com/JDileoDev/Nginx)**
+*Practicas en laboratorio con el servidor Nginx*
 
 ---
 
