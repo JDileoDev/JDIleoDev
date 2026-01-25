@@ -60,6 +60,13 @@ Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una fo
 - **Carrera:** Tecnicatura Superior en Redes y Ciberseguridad.
 - **Logro:** 28 de 32 materias aprobadas con promoción.
 
+📚 Cursos y Capacitación Complementaria
+- **Codo a Codo – Gobierno de la Ciudad de Buenos Aires**
+- Programación Python y Desarrollo Full Stack (HTML, CSS y JavaScript).
+- Testing QA: documentación de requerimientos, confección y testeo de casos de uso (camino feliz y no feliz), testing funcional y no funcional, reporte de bugs, uso de SpiraPlan, introducción a testing automatizado con Rapise y pruebas con JMeter.
+
+- **Argentina Programa**
+- Programación Java: programación orientada a objetos y lógica de aplicaciones.
 
 ## 📈 Metas Técnicas
 - [ ] Implementar arquitecturas de red seguras para contenedores Docker.
