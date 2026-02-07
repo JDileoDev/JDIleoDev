@@ -10,68 +10,61 @@ Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una fo
 
 ### 🌐 Networking & Conectividad (Capa 2 y 3)
 - **Administración de Switches:** Configuración en entornos **Cisco y Dell**.
-- **Seguridad y Control:** Implementación de **VLANs**, **ACLs** (Listas de Control de Acceso), **Port Security**, Port Mirroring y Port Channel.
+- **Seguridad y Control:** Implementación de **VLANs**, **ACLs**, **Port Security**, Port Mirroring y Port Channel.
 - **Diseño y Simulación:** Uso de **Cisco Packet Tracer** para el modelado de topologías.
 - **Estándares:** Aplicación de normas **TIA/EIA** para cableado estructurado y centro de datos.
 
-### 🔐 Ciberseguridad & Normativa
-- **Marcos de Trabajo:** Conocimientos teóricos en la familia **ISO 27000** (Seguridad) e **ISO 9001** (Calidad).
-- **Seguridad Informática:** Aplicación de la tríada **CID** (Confidencialidad, Integridad y Disponibilidad) y buenas prácticas de seguridad.
-- **Derecho Informático:** Formación en aspectos legales, ética y privacidad de datos.
+### 🐍 Desarrollo Backend & Arquitectura (Python / C#)
+- **Frameworks Modernos:** Desarrollo de APIs REST con **FastAPI** implementando estructuras escalables.
+- **Patrones de Diseño:** Aplicación de **Arquitectura en Capas** (Routes, Services, Repositories) para la separación de responsabilidades.
+- **Modelado de Datos:** Creación de esquemas y validación de tipos mediante **Pydantic**.
+- **Bases de Datos:** Gestión de persistencia en **Microsoft SQL Server** y manejo de modelos relacionales.
 
-### 🖥️ Sistemas y Virtualización
-- **Arquitectura y Sistemas Operativos:** Conocimiento profundo de la arquitectura de computadores y fundamentos teóricos de los Sistemas Operativos (Gestión de procesos, memoria y E/S).
-- **Entornos:** Manejo de **Windows** y **Linux** (Ubuntu/Debian).
-- **Virtualización:** Uso de laboratorios virtuales mediante **VMware** y **VirtualBox**.
+### 🔐 Ciberseguridad & DevOps
+- **Sistemas y Virtualización:** Manejo de entornos **Linux** (Ubuntu/Debian) y virtualización con **VMware/VirtualBox**.
+- **Contenedores:** Dockerización de aplicaciones para garantizar la portabilidad de entornos.
+- **Marcos de Trabajo:** Conocimientos en la tríada **CID**, familia **ISO 27000** y normativas de seguridad informática.
 
 ---
 
-## ⭐ Repositorio Estrella
+## ⭐ Repositorios Destacados
+
+🚀 **[API Gestión de Libros (FastAPI)](https://github.com/JDileoDev/backend)**
+*Implementación de un CRUD completo con FastAPI utilizando arquitectura en capas y validación de datos con Pydantic.*
+
 🚀 **[Linux-DevOps](https://github.com/JDileoDev/practicas-linux-devops)**
 *Mi laboratorio principal de administración de sistemas, scripting y evolución hacia Docker.*
-  **[Nginx-Server](https://github.com/JDileoDev/Nginx)**
-*Practicas en laboratorio con el servidor Nginx*
+
+🚀 **[Nginx-Server](https://github.com/JDileoDev/Nginx)**
+*Prácticas en laboratorio con el servidor Nginx y configuración de servidores web.*
 
 ---
 
 ## 📂 Portafolio de Proyectos
 
 ### 🏗️ Infraestructura y Automatización
-- [**Proyecto Java Dockerizado**](https://github.com/JDileoDev/Proyecto-Java-Dockerizado): Implementación de contenedores para garantizar portabilidad.
-- [**Desarrollo en Python**](https://github.com/JDileoDev/Desarrollo-en-Python): Ejercicios de lógica, funciones y diccionarios orientados al scripting.
+- [**Proyecto Java Dockerizado**](https://github.com/JDileoDev/Proyecto-Java-Dockerizado): Implementación de contenedores para despliegue de aplicaciones.
+- [**Desarrollo en Python**](https://github.com/JDileoDev/Desarrollo-en-Python): Scripts de automatización y lógica de programación.
 
-### 💻 Desarrollo Backend y Bases de Datos (C# / SQL)
-- [**Sistema de Préstamos por Sucursal**](https://github.com/JDileoDev/proyectos-CSharp-WinForms-SqlServer/tree/master/Sistema%20de%20prestamos%20por%20Sucursal): Gestión financiera con arquitectura relacional.
-- [**Sedes y Cursos**](https://github.com/JDileoDev/proyectos-CSharp-WinForms-SqlServer/tree/master/Sedes%20y%20Cursos): Manejo de relaciones uno a muchos y persistencia en SQL Server.
-- [**Juego Tateti**](https://github.com/JDileoDev/proyectos-CSharp-WinForms-SqlServer/tree/master/Tateti): Lógica de estados y programación orientada a eventos.
-
-### 🌐 Desarrollo Frontend
-- [**Curso Codo a Codo**](https://github.com/JDileoDev/FrontEnd-JS-CSS-CodoACodo): Prácticas de diseño responsivo y maquetación con HTML, CSS y JavaScript.
+### 💻 Ecosistema .NET & SQL
+- [**Sistema de Préstamos por Sucursal**](https://github.com/JDileoDev/proyectos-CSharp-WinForms-SqlServer/tree/master/Sistema%20de%20prestamos%20por%20Sucursal): Gestión financiera con arquitectura relacional en C#.
+- [**Sedes y Cursos**](https://github.com/JDileoDev/proyectos-CSharp-WinForms-SqlServer/tree/master/Sedes%20y%20Cursos): Manejo de persistencia y relaciones de datos en SQL Server.
 
 ---
 
 ## 🛠️ Mi Stack Técnico
-- **Sistemas y Redes:** Linux (Ubuntu/Debian), Seguridad en Redes, Protocolos TCP/IP.
-- **Lenguajes:** Python, C#, Java, JavaScript.
-- **Bases de Datos:** Microsoft SQL Server.
-- **Herramientas:** Docker (en progreso), Git, GitHub.
+- **Backend:** Python (FastAPI), C# (WinForms), Java, JavaScript.
+- **Data:** Pydantic, Microsoft SQL Server, JSON.
+- **Infraestructura:** Linux (Ubuntu/Debian), Seguridad en Redes, Protocolos TCP/IP, Nginx.
+- **Herramientas:** Git, GitHub, Docker (en progreso), Cisco Packet Tracer, VMware.
 
 ---
 
 ## 📊 Formación Académica
-- **Carrera:** Tecnicatura Superior en Redes y Ciberseguridad.
-- **Logro:** 28 de 32 materias aprobadas con promoción.
+- **Carrera:** Tecnicatura Superior en Redes y Ciberseguridad (Faltan 4 materias para finalizar).
+- **Certificaciones:** Codo a Codo (Full Stack Python & QA Testing), Argentina Programa (Java).
 
-📚 Cursos y Capacitación Complementaria
-- **Codo a Codo – Gobierno de la Ciudad de Buenos Aires**
-
-  Programación Python y Desarrollo Full Stack (HTML, CSS y JavaScript).
-
-  Testing QA: documentación de requerimientos, confección y testeo de casos de uso (camino feliz y no feliz), testing funcional y no funcional, reporte de bugs, uso de SpiraPlan, introducción a testing automatizado con Rapise y pruebas con JMeter.
-
-- **Argentina Programa** 
-
-  Programación Java: programación orientada a objetos y lógica de aplicaciones.
+---
 
 ## 📈 Metas Técnicas
 - [ ] Implementar arquitecturas de red seguras para contenedores Docker.
@@ -84,18 +77,3 @@ Soy estudiante avanzado (90% aprobado - 28/32 materias promocionadas) con una fo
 *"La infraestructura es la base; la seguridad es el compromiso."*
 
 
-
-<!--
-**JDileoDev/JDIleoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
